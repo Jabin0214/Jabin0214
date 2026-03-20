@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Personal Homepage](https://jabin0214.github.io/my-page/)
+[Personal Homepage](https://jabinchen.com/)
 
 
 ## My favorite tools and technologies ⚙️
